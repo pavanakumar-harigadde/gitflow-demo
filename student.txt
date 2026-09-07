@@ -2,4 +2,8 @@ Student Registration Feature
 
 Name : Pavanakumar
 Course : DevOps
+<<<<<<< HEAD
 Status : Feature One
+=======
+Status : Feature Two
+>>>>>>> feature/change-two
